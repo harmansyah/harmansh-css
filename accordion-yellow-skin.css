@@ -28,12 +28,12 @@
   border-top:1px solid #444;
   border-bottom:1px solid #222;
   background-color:#333;
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3c3c3c',endColorstr='#333333');
-  background-image:-webkit-linear-gradient(#3c3c3c,#333);
-  background-image:-moz-linear-gradient(#3c3c3c,#333);
-  background-image:-ms-linear-gradient(#3c3c3c,#333);
-  background-image:-o-linear-gradient(#3c3c3c,#333);
-  background-image:linear-gradient(#3c3c3c,#333);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#F2F9FF',endColorstr='#333333');
+  background-image:-webkit-linear-gradient(#F2F9FF,#333);
+  background-image:-moz-linear-gradient(#F2F9FF,#333);
+  background-image:-ms-linear-gradient(#F2F9FF,#333);
+  background-image:-o-linear-gradient(#F2F9FF,#333);
+  background-image:linear-gradient(#F2F9FF,#333);
 }
 .table-of-content .toc-header.active {
   color:#000;
