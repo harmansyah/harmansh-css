@@ -40,12 +40,12 @@
   border-top:1px solid #24B6E3;
   border-bottom:1px solid #104968;
   background-color:#FFFF00;
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#248AB0',endColorstr='#21739B');
-  background-image:-webkit-linear-gradient(#248AB0,#21739B);
-  background-image:-moz-linear-gradient(#248AB0,#21739B);
-  background-image:-ms-linear-gradient(#248AB0,#21739B);
-  background-image:-o-linear-gradient(#248AB0,#21739B);
-  background-image:linear-gradient(#248AB0,#21739B);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFF00',endColorstr='#FFFF00');
+  background-image:-webkit-linear-gradient(#FFFF00,#FFFF00);
+  background-image:-moz-linear-gradient(#FFFF00,#FFFF00);
+  background-image:-ms-linear-gradient(#FFFF00,#FFFF00);
+  background-image:-o-linear-gradient(#FFFF00,#FFFF00);
+  background-image:linear-gradient(#FFFF00,#FFFF00);
 }
 .table-of-content .loading {
   display:block;
