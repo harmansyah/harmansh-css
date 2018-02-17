@@ -36,7 +36,7 @@
   background-image:linear-gradient(#3c3c3c,#333);
 }
 .table-of-content .toc-header.active {
-  color:#696969;
+  color:#000;
   border-top:1px solid #FFD900;
   border-bottom:1px solid #D9A220;
   background-color:#FFD900;
